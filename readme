@@ -1,0 +1,6 @@
+﻿The project is designed to read the unique sequence number of a RFID transponder tag using a RFID reader. The read sequence along with the time of reading and name of the reader are uploaded and stored in the google appengine datastore. A webpage is presented for further display of the content. For further reading goto the following links:
+http://odolshinu.wordpress.com/2010/09/10/appengine/
+http://odolshinu.wordpress.com/2010/09/10/rfid-reader/
+http://odolshinu.wordpress.com/2010/09/11/designing-the-appengine/
+http://odolshinu.wordpress.com/2010/09/12/reading-and-uploading-the-sequence/
+http://odolshinu.wordpress.com/2010/09/12/additional-section-for-appengine/
